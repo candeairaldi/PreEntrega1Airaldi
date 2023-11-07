@@ -1,0 +1,51 @@
+
+.logo {
+    font-size: 1.5rem;
+    color: #333;
+    text-decoration: none;
+    font-size: xx-large;
+    border: #333;
+    border-style:inherit;
+    padding: 10px;
+    margin-left: 0px;
+}
+.navbar {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    background-color: #ffffff59;
+    padding: 1rem 0;
+    border-bottom: 1px solid #dddddd86;
+}
+
+.menu {
+    display: flex;
+    flex-direction: column;
+    margin-top: 1rem;
+}
+
+
+
+.menu-nav {
+    color: #000000;
+    font-weight: 500;
+    margin-bottom: 10px;
+    text-decoration:none;
+    padding: 0px 20px 0px 20px;
+}
+
+.cart-widget {
+    display: flex;
+    align-items: center;
+    padding: 0px 85px 0px 0px;
+}
+.saludo{
+    padding: 55px;
+    margin: 0px auto;
+    border-bottom-left-radius: 90%;
+    border-top-right-radius: 90%;
+}
+
+h1{
+    color: black(26, 22, 255);
+}
