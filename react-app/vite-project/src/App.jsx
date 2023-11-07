@@ -5,7 +5,7 @@ export const App = () => {
   return (
     <>
       <NavBar />
-      <ItemListContainer bienvenida="Bienvenidos a Karka Calzados" />
+      <ItemListContainer greetings="Bienvenidos a Karla Calzados" />
     </>
   )
 }
