@@ -1,0 +1,29 @@
+
+.card{
+    display: flex;
+    text-align: center;
+    background-color: white;
+    margin: 20px 20px 20px 50px;
+    width: 20rem;
+    height: 20rem;
+}
+
+.foto {
+    width: 200px; 
+    height: auto; 
+    margin: 10px 25px 0px 30px;
+}
+
+.btn{
+    background-color: white;
+    border-color: black;
+    font-weight: bold;
+    color:black;
+    margin-top: 2rem;
+}
+
+.btn:hover {
+    background-color: black;
+}
+
+

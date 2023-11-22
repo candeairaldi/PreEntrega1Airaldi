@@ -1,0 +1,34 @@
+.logo {
+    background-color: black;
+    font-size: 1.5rem;
+    color: white;
+    text-decoration: none;
+    font-size: xx-large;
+    padding: 10px;
+    margin-left: 0px;
+}
+.navbar {
+    display: flex;
+    flex-direction: column;
+    background-color:black;
+    padding: 1rem 0;
+}
+
+.menu {
+    display: flex;
+    margin-top: 1rem;
+}
+
+.menu-nav {
+    font-weight: 500;
+    margin-bottom: 10px;
+    text-decoration:none;
+    padding: 0px 20px 0px 20px;
+}
+
+.cart-widget {
+    display:flex;
+    flex-direction: row;
+    color: white;
+}
+
