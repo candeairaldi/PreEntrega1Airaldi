@@ -1,0 +1,63 @@
+.order {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 10rem;
+    margin: 0.5rem ;
+    border: 1px solid gray ;
+    border-radius: 2rem ;
+    padding: 0.75rem ;
+    background-color: rgb(160, 94, 94);
+
+  }
+  
+  .form-datos {
+    width: 400px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
+  
+  .form-datos h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .form-datos label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .form-datos input,
+  .form-datos select,
+  .form-datos textarea {
+    width: 100%;
+    padding: 8px;
+    margin-top: 6px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  .form-datos textarea {
+    resize: vertical;
+    min-height: 80px;
+  }
+  
+  .form-datos button {
+    width: 100%;
+    padding: 10px;
+    margin-top: 20px;
+    border: none;
+    border-radius: 4px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .form-datos button:hover {
+    background-color:  rgb(160, 94, 94);
+  }

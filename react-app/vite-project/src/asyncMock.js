@@ -1,4 +1,4 @@
-const products = [
+/* const products = [
     { id: "1", name: "Emilia Zuela", img: "../public/img/mujer5.jpg", price: 33.000, category: "calzados mujer", description: "Borcego", stock: 10 },
     { id: "2", name: "Beryn Negro", img: "../public/img/mujer6.jpg", price: 35700, category: "calzados mujer", description: "Zapato", stock: 19 },
     { id: "3", name: "Zasha Blanco", img: "../public/img/mujer7.jpg", price: 32500, category: "calzados mujer", description: "Borcego", stock: 12 },
@@ -42,4 +42,4 @@ export const getProductById = (id) => {
         reject("No hay productos");
         }
     });
-};
+}; */

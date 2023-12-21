@@ -1,0 +1,46 @@
+.tittle{
+    text-align: center;
+    margin-bottom: 11rem;
+}
+
+.container-carrito{ 
+    margin: 0.6rem ;
+    border: 1px solid black ;
+    padding: 0.50rem ;
+    background-color:rgb(160, 94, 94);
+   }
+  
+   .container-carrito button:hover {
+    background-color: black ;
+    color: bisque;
+  } 
+
+   .container-carrito p {
+    margin: 0.5rem 0;
+  }
+
+   button{
+    background-color: white;
+    border: 1px solid rgb(80, 80, 80) ;
+    border-radius: 0.5rem ;
+    padding: 0.5rem 1rem;
+    margin: 0.25rem; 
+   }
+
+.button-final{
+    background-color: rgb(160, 94, 94);
+    color: white;
+    margin-top: 1rem;
+}
+
+.subtotal {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .subtotal div {
+    display: flex;
+    gap: 1rem; 
+    align-items: center; 
+  }

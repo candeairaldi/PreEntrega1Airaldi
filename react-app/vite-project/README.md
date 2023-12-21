@@ -1,8 +1,22 @@
-# React + Vite
+# Descripción del proyecto:
+Este es un proyecto para el curso de ReactJs en el cual teniamos que realizar un e-commerce. En mi caso, Calzados Karla apunta a la venta de diseños y marcas exclusivas para hombres y mujeres.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Instalación:
+- git clone "https://github.com/candeairaldi/PreEntrega1Airaldi/blob/main/react-app/vite-project"
+- npm install
+- npm run dev
 
-Currently, two official plugins are available:
+## Uso de tecnologías y librerías:
+React Js
+Node
+Vite
+React Router Dom
+Firebase
+SweetAlert2
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Capturas del proyecto
+[![Tienda](Tienda "Tienda")](https://i.imgur.com/0cwvb5c.jpg "Tienda")
+[![Carrito](Carrito "Carrito")](https://i.imgur.com/0hQYXK5.jpg "Carrito")
+[![Formulario de compra](Formulario de compra "Formulario de compra")](https://i.imgur.com/i9EumJX.jpg "Formulario de compra")
+[![Confirmación de compra](Confirmación de compra "Confirmación de compra")](https://i.imgur.com/zFRxTmc.jpg "Confirmación de compra")
+[![Rechazo de compra](Rechazo de compra "Rechazo de compra")](https://i.imgur.com/J8rMg9I.jpg "Rechazo de compra")

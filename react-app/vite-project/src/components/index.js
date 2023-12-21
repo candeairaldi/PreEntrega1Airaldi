@@ -7,3 +7,4 @@ export * from './ItemDetailContainer/ItemDetailContainer';
 export * from './ItemList/ItemList';
 export * from './ItemListContainer/ItemListContainer';
 export * from './NavBar/NavBar';
+export { default as Order } from './Order/Order';
